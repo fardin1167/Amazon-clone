@@ -1,4 +1,4 @@
 # Amazon-clone
 using HTML and CSS
 <br>
-Author-fardin ansari
+Author-fardin ansari(Apna collage)
